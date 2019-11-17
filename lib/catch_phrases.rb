@@ -14,3 +14,6 @@ def link
   puts link_out
   return link_out
 end  
+
+def any_phrase
+  
