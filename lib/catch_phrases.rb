@@ -16,11 +16,11 @@ def link
 end  
 
 def any_phrase
-  phrase = "
+  phrase = argument
   return phrase
 end  
 
-argument(Do A Barrel Roll!\n)
+argument("Do A Barrel Roll!\n")
   
   
   
