@@ -15,7 +15,7 @@ def link
   return link_out
 end  
 
-def any_phrase("Do A Barrel Roll!\n")
+def any_phrase = "Do A Barrel Roll!\n"
   puts any_phrase
   return any_phrase
 end  
