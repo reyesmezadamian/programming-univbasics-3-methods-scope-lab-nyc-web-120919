@@ -17,6 +17,7 @@ end
 
 def any_phrase
   phrase = argument
+  puts phrase
   return phrase
 end  
 
